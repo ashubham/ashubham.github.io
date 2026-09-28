@@ -1,0 +1,391 @@
+{
+  "asOf": "2026-09-28",
+  "talks": [
+    {
+      "date": "Nov 5, 2026",
+      "event": "AI Loves Data · San Francisco",
+      "title": "MicroAgents: The Microservices of the Agentic Era",
+      "venue": "San Francisco, CA",
+      "kind": "Scheduled talk",
+      "url": "https://ailovesdata.com/san-francisco/ashish-shubham/"
+    },
+    {
+      "date": "Oct 13, 2026",
+      "event": "Applied AI Summit",
+      "title": "Prompt + Tools = Value; Everything Else Is Infra",
+      "venue": "Online · 12:45–1:05 pm ET",
+      "kind": "Scheduled keynote",
+      "url": "https://appliedaisummit.org/schedule/"
+    },
+    {
+      "date": "Sep 2026",
+      "event": "WeAreDevelopers World Congress North America",
+      "title": "MicroAgents: The Microservices of the Agentic Era",
+      "venue": "San Jose, CA",
+      "kind": "Talk",
+      "url": "https://www.wearedevelopers.com/world-congress-north-america/agenda/sessions/microagents-the-microservices-of-the-agentic-era-1266453"
+    },
+    {
+      "date": "Sep 2026",
+      "event": "API World + CloudX + AI TechWorld",
+      "title": "From Microservices to MicroAgents: MCP as the New Service Boundary",
+      "venue": "Santa Clara, CA",
+      "kind": "Talk",
+      "url": "https://sessionize.com/s/ashish-shubham1474/from-microservices-to-microagents-mcp-as-the-new-s/178652",
+      "note": "Event month and location are listed in the speaker’s Sessionize event history; session title is listed on the same profile."
+    },
+    {
+      "date": "Sep 10, 2026",
+      "event": "AICamp Silicon Valley",
+      "title": "Stop Writing Text-to-SQL: Give the LLM the Job It’s Actually Good At",
+      "venue": "ThoughtSpot · Mountain View, CA",
+      "kind": "Talk",
+      "url": "https://www.aicamp.ai/event/eventdetails/W2026091017"
+    },
+    {
+      "date": "Jul 28, 2026",
+      "event": "TechEquity Ai · Enterprise AI at Scale",
+      "title": "Building AI Ecosystem: From Innovation to Enterprise-Scale Impact",
+      "venue": "Snowflake Silicon Valley AI Hub · Menlo Park, CA",
+      "kind": "Panel",
+      "url": "https://techequity-ai.org/agenda-2026-july-ai-forum/"
+    },
+    {
+      "date": "Jul 15, 2026",
+      "event": "ACM San Francisco Bay Area Chapter",
+      "title": "Multi-Agent Systems at Scale as a Shared Platform for the Enterprises",
+      "venue": "Valley Research Park · Mountain View, CA",
+      "kind": "Talk",
+      "url": "https://svec.org/event/multi-agent-systems-at-scale-as-a-shared-platform-for-the-enterprises/",
+      "recording": "https://www.youtube.com/watch?v=pO72Hb30fKw"
+    },
+    {
+      "date": "May 2026",
+      "event": "AI DevSummit + DeveloperWeek Management",
+      "title": "Prompt + Tools = Value. Everything Else Is Infra.",
+      "venue": "South San Francisco, CA",
+      "kind": "Keynote",
+      "url": "https://www.developerweek.com/management/certificates/ai-design-architecture/"
+    },
+    {
+      "date": "2026",
+      "event": "IEEE Silicon Valley CyberSec Conference",
+      "title": "Speaker / panelist",
+      "venue": "San Jose State University · San Jose, CA",
+      "kind": "Conference",
+      "url": "#source-notes",
+      "resume": true
+    },
+    {
+      "date": "2026",
+      "event": "AI Healthcare Conference",
+      "title": "Speaker / panelist",
+      "venue": "Stanford University, CA",
+      "kind": "Conference",
+      "url": "https://aihealthcareconference.com/speaker/ashish-shubham/",
+      "note": "2026 appearance and venue from the supplied resume. Public speaker profile confirms identity; the current conference site also contains 2027 venue/date material. No exact 2026 session date is asserted."
+    },
+    {
+      "date": "2025",
+      "event": "IEEE World Leaders Summit",
+      "title": "Speaker / panelist",
+      "venue": "University of Washington",
+      "kind": "Conference",
+      "url": "#source-notes",
+      "resume": true
+    },
+    {
+      "date": "2022",
+      "event": "API Developer Experience Meetup",
+      "title": "Develop and Deploy API SDKs for the Enterprise",
+      "venue": "Postman office · San Francisco, CA",
+      "kind": "Talk",
+      "url": "https://www.apimatic.io/blog/2022/06/meetup-recap-the-api-developer-experience-meetup-san-francisco",
+      "recording": "https://www.youtube.com/watch?v=6ACNgvo--_I",
+      "note": "Organizer recap published June 6, 2022; exact event date not inferred."
+    }
+  ],
+  "writing": [
+    {
+      "title": "Prompt + Tools = Value. Everything Else Is Infra.",
+      "publisher": "The AI Journal",
+      "date": "2026",
+      "kind": "Article",
+      "description": "Why shared agent infrastructure belongs in a platform, and what product teams should own.",
+      "url": "https://aijourn.com/prompt-tools-value-everything-else-is-infra/"
+    },
+    {
+      "title": "Definitive Guide to Multi-Threaded Rendering on the Web",
+      "publisher": "HackerNoon",
+      "date": "Feb 7, 2026",
+      "kind": "Article",
+      "description": "A practical survey of web workers, scheduling, and parallel rendering approaches.",
+      "url": "https://hackernoon.com/definitive-guide-to-multi-threaded-rendering-on-the-web"
+    },
+    {
+      "title": "APIs Are Not Enough: The Case for Embeddable AI",
+      "publisher": "Solutions Review / Insight Jam",
+      "date": "Jan 29, 2026",
+      "kind": "Guest article",
+      "description": "The case for shipping embeddable interfaces alongside APIs to shorten integration time.",
+      "url": "https://solutionsreview.com/business-intelligence/apis-are-not-enough-the-case-for-embeddable-ai/"
+    },
+    {
+      "title": "Infrastructure As Code in AI Engineering: Towards Reproducible and Efficient Model Deployment",
+      "publisher": "Journal of International Crisis and Risk Communication Research",
+      "date": "Oct 31, 2025",
+      "kind": "Coauthored paper",
+      "description": "With Sayantan Ghosh. Vol. 8, S10, pp. 634–643. DOI: 10.63278/jicrcr.vi.3421.",
+      "url": "https://jicrcr.com/index.php/jicrcr/article/view/3421"
+    },
+    {
+      "title": "ThoughtSpot Agentic MCP Server for AI Analytics Workflows",
+      "publisher": "ThoughtSpot",
+      "date": "",
+      "kind": "Coauthored blog",
+      "description": "With Jessica Hwang. Connecting AI clients to governed enterprise analytics through MCP.",
+      "url": "https://www.thoughtspot.com/blog/introducing-agentic-mcp-server"
+    },
+    {
+      "title": "Users should never know it’s embedded",
+      "publisher": "thoughtspotdev / Medium",
+      "date": "2025",
+      "kind": "Blog",
+      "description": "Building embedded experiences that feel native to the application around them.",
+      "url": "https://medium.com/thoughtspotdev/users-should-never-know-its-embedded-5fb7af29a116"
+    },
+    {
+      "title": "Build interactive analytics in your React App with ThoughtSpot Everywhere",
+      "publisher": "Medium",
+      "date": "Apr 21, 2021",
+      "kind": "Tutorial",
+      "description": "Adding interactive analytics to a React and TypeScript application.",
+      "url": "https://ashishshubham.medium.com/analytics-in-your-react-app-with-ts-everywhere-2fabdccc187b"
+    },
+    {
+      "title": "Infinite Scroll using Generators!",
+      "publisher": "JavaScript in Plain English / Medium",
+      "date": "Nov 25, 2018",
+      "kind": "Tutorial",
+      "description": "Putting ES6 generators to practical use for infinite scrolling.",
+      "url": "https://medium.com/@ashishshubham/infinite-scroll-using-generators-bbacbf6cafd9"
+    },
+    {
+      "title": "Supercharge your search bar with Visual Tokens",
+      "publisher": "codeburst",
+      "date": "Jan 2018",
+      "kind": "Tutorial",
+      "description": "Using tokenized input to make search more expressive and provide immediate feedback.",
+      "url": "https://codeburst.io/supercharge-your-search-with-tokenization-32321a87f309"
+    },
+    {
+      "title": "Maintaining context in chatbots",
+      "publisher": "Chatbots Magazine / Medium",
+      "date": "Mar 19, 2017",
+      "kind": "Tutorial",
+      "description": "A functional approach to conversational context, with the bot-context library.",
+      "url": "https://ashishshubham.medium.com/maintaining-context-in-chatbots-2016b6a5b7c6"
+    }
+  ],
+  "patents": [
+    {
+      "title": "Intelligent search modification guidance",
+      "description": "Guiding users toward related analyses and useful modifications of search results.",
+      "records": [
+        [
+          "US 12,664,172 B2",
+          "Granted · Jun 23, 2026",
+          "https://patentsgazette.uspto.gov/week25/OG/html/1547-4/US12664172-20260623.html"
+        ],
+        [
+          "US 2021/0357398 A1",
+          "Application publication · Nov 18, 2021",
+          "https://patents.google.com/patent/US20210357398A1/en"
+        ]
+      ]
+    },
+    {
+      "title": "Natural language question answering systems",
+      "description": "Interpreting natural-language questions for structured data analysis.",
+      "records": [
+        [
+          "US 12,189,691 B2",
+          "Granted · Jan 7, 2025",
+          "https://patents.google.com/patent/US12189691B2/en"
+        ],
+        [
+          "US 11,790,006 B2",
+          "Granted · Oct 17, 2023",
+          "https://patents.google.com/patent/US11790006B2/en"
+        ],
+        [
+          "US 11,157,564 B2",
+          "Granted · Oct 26, 2021",
+          "https://patents.google.com/patent/US11157564B2/en"
+        ]
+      ]
+    },
+    {
+      "title": "Conversational database analysis",
+      "description": "Maintaining conversational context across successive analytical requests.",
+      "records": [
+        [
+          "US 11,941,034 B2",
+          "Granted · Mar 26, 2024",
+          "https://patents.google.com/patent/US11941034B2/en"
+        ],
+        [
+          "US 11,580,147 B2",
+          "Granted · Feb 14, 2023",
+          "https://patents.google.com/patent/US11580147B2/en"
+        ]
+      ]
+    },
+    {
+      "title": "Obtaining results data using agentic analysis",
+      "description": "Published application with co-inventor Nikhil Yadav.",
+      "records": [
+        [
+          "US 2026/0093691 A1",
+          "Published application · Apr 2, 2026",
+          "https://patents.google.com/patent/US20260093691A1/en"
+        ]
+      ]
+    }
+  ],
+  "media": [
+    {
+      "title": "He Built a $200M AI Agent 10 Years Before ChatGPT",
+      "publisher": "Forward Deployed",
+      "date": "Jan 28, 2026",
+      "kind": "Podcast interview",
+      "description": "A 91-minute conversation about ThoughtSpot, enterprise AI, product evolution, and engineering leadership. Episode title as published by the host.",
+      "url": "https://www.forwardeployed.com/episodes/thoughtspot-ai-agent-enterprise-analytics"
+    },
+    {
+      "title": "Rethinking Data Accessibility: How Embedded AI is Transforming Everyday Decision-Making",
+      "publisher": "TechBullion",
+      "date": "Sep 5, 2025",
+      "kind": "Profile",
+      "description": "Gerrita Bikker’s profile of Ashish’s work on embedded analytics and accessible AI.",
+      "url": "https://techbullion.com/rethinking-data-accessibility-how-embedded-ai-is-transforming-everyday-decision-making/"
+    },
+    {
+      "title": "The API Developer Experience Meetup @ San Francisco",
+      "publisher": "APIMatic",
+      "date": "Jun 6, 2022",
+      "kind": "Event coverage",
+      "description": "Organizer recap of the enterprise SDK talk, with presentation and recording links.",
+      "url": "https://www.apimatic.io/blog/2022/06/meetup-recap-the-api-developer-experience-meetup-san-francisco"
+    },
+    {
+      "title": "Introducing Built In’s 2021 Tech Innovator Award Winners",
+      "publisher": "Built In",
+      "date": "2021",
+      "kind": "Award feature",
+      "description": "Named among 50 technologists recognized in the inaugural Tech Innovator Awards.",
+      "url": "https://builtin.com/articles/tech-innovator-award-winners-2021"
+    },
+    {
+      "title": "Built In Announces the 50 Winners of Its Awards Program Honoring Rising Technologists",
+      "publisher": "PR Newswire",
+      "date": "Aug 4, 2021",
+      "kind": "Press release",
+      "description": "The award announcement lists Ashish as Principal Engineer / Director of Engineering at ThoughtSpot.",
+      "url": "https://www.prnewswire.com/news-releases/built-in-announces-the-50-winners-of-its-awards-program-honoring-rising-technologists-301347319.html"
+    },
+    {
+      "title": "Forecasting COVID-19 Impact Over the Next Two Years",
+      "publisher": "ThoughtSpot · Amit Prakash",
+      "date": "",
+      "kind": "Company mention",
+      "description": "Credits Ashish with building a COVID-19 forecasting application.",
+      "url": "https://www.thoughtspot.com/blog/forecasting-covid-19-impact-over-next-two-years"
+    }
+  ],
+  "service": [
+    [
+      "ACM CHI",
+      "Human Factors in Computing Systems",
+      "2026"
+    ],
+    [
+      "ACM HRI",
+      "Human–Robot Interaction",
+      "2026"
+    ],
+    [
+      "ACM WSDM",
+      "Web Search and Data Mining",
+      "2026"
+    ],
+    [
+      "IEEE SoutheastCon",
+      "Engineering conference",
+      "2026"
+    ],
+    [
+      "IEEE ARITH",
+      "Computer Arithmetic",
+      "2026"
+    ],
+    [
+      "IEEE Intelligent Vehicles",
+      "Intelligent Vehicles Symposium",
+      "2026"
+    ],
+    [
+      "IEEE FISTS",
+      "Forum on Integrated and Sustainable Transportation Systems",
+      "2026"
+    ],
+    [
+      "IEEE ICBDA",
+      "Big Data Analysis",
+      "2026"
+    ],
+    [
+      "IEEE ICARA",
+      "Control, Automation and Robotics",
+      "2026"
+    ]
+  ],
+  "projects": [
+    [
+      "webshot-factory",
+      "Web screenshots at scale using headless Chrome.",
+      "https://github.com/ashubham/webshot-factory",
+      "Personal project"
+    ],
+    [
+      "bot-context",
+      "Functional tools for maintaining conversational context in chatbots.",
+      "https://github.com/ashubham/bot-context",
+      "Personal project"
+    ],
+    [
+      "tokenizer.js",
+      "Runtime text tokenization for interactive web experiences.",
+      "https://github.com/ashubham/tokenizer.js",
+      "Personal project"
+    ],
+    [
+      "w3c-keys",
+      "KeyboardEvent.key-compatible key codes with TypeScript definitions.",
+      "https://github.com/ashubham/w3c-keys",
+      "Personal project"
+    ],
+    [
+      "ThoughtSpot Visual Embed SDK",
+      "Customizable analytics components for applications.",
+      "https://github.com/thoughtspot/visual-embed-sdk",
+      "ThoughtSpot project"
+    ],
+    [
+      "pdom",
+      "Exploring multithreaded DOM rendering.",
+      "https://github.com/thoughtspot/pdom",
+      "ThoughtSpot project"
+    ]
+  ]
+}
